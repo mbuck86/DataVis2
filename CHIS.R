@@ -1,4 +1,4 @@
-# I am not sure what parts to actually put here, so I will just paste everything from the final set of execises.
+# I am not sure what parts to actually put here, so I will just paste everything from the final set of exercises.
 
 # Explore the dataset with summary and str
 summary(adult)
